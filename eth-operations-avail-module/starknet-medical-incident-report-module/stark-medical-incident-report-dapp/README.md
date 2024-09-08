@@ -1,24 +1,18 @@
-# starknet-incident
-incident dapp on starknet
+# Nethermind : Starknet Implementation for Medical Incident Reporting
 
-# 🏗 Scaffold-Stark 2
+The Eth Operations DApp utilizes Nethermind (Starknet) for secure and scalable medical incident reporting. This integration leverages Starknet's zero-knowledge rollups to ensure efficient, privacy-preserving data handling, allowing for decentralized and tamper-proof reporting within the DApp.
 
-<h4 align="center">
-  <a href="https://www.docs.scaffoldstark.com/">Documentation</a> |
-  <a href="https://www.scaffoldstark.com/">Website</a>
-</h4>
+Demo Video (screencasts): https://drive.google.com/drive/u/1/folders/1EB6Fao9D1cc4uFVGXShesSy2rjkgNSvk
 
-🧪 An open-source, up-to-date toolkit for building decentralized applications (dapps) on Starknet blockchain. It's designed to make it easier for developers to create and deploy smart contracts and build user interfaces that interact with those contracts.
+Benefits:
 
-⚙️ Built using NextJS, Starknet.js, Scarb, Starknet-React, Starknet Foundry and Typescript.
+Enable hyperlocal medical service and delivery information.
 
-- ✅ **Contract Fast Reload**: Your frontend auto-adapts to your smart contracts as you deploy them.
-- 🪝 [**Custom hooks**](https://www.docs.scaffoldstark.com/hooks/): Collection of React hooks wrapper around [starknet-react](https://starknet-react.com/) to simplify interactions with smart contracts with typescript autocompletion.
-- 🧱 [**Components**](https://www.docs.scaffoldstark.com/components): Collection of common web3 components to quickly build your frontend.
-- 🔥 **Burner Wallet & Prefunded Account**: Quickly test your application with a burner wallet and prefunded accounts.
-- 🔐 **Integration with Wallet Providers**: Connect to different wallet providers and interact with Starknet network.
+Enable QR code based blockchain payments at key sites with support for key Ethereum based blockchain platforms.
 
-![Debug Contracts tab](./assests/debug-contracts.png)
+Enhance safety through smart incentivization of incident reporting by employees and logistics providers.
+
+Additionally, the Eth Operations DApp uses verified medical incident data to mint NFTs on Voyager, which store an image and related insurance metadata. This process leverages Starknet and Argent Mobile to ensure secure and decentralized storage of medical records in the form of NFTs.
 
 ## Requirements
 
