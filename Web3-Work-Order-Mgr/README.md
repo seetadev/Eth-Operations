@@ -1,5 +1,5 @@
-# OP Conceirge Invoice
-OP Conceirge Invoice & Billing System with Metamask integration, activation using  ConnectKit and Web3 tooling
+# Web3 Work Order
+Web3 Work Order System with Metamask integration, activation using  ConnectKit and Web3 tooling
 
 ## Prerequisites
 
@@ -14,7 +14,7 @@ yarn -v
 
 ### Cloning the Repository
 
-Clone your fork of the Web3-Medical-Invoice repository:
+Clone your fork of the Web3-Work-Order repository:
 
 ```bash
 git clone https://github.com/[USER_NAME]/Web3-Medical-Invoice
