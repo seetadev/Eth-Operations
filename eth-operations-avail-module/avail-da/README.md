@@ -1,3 +1,10 @@
+# Avail Usage
+We are also developing custom rollapps with Avail DA and tools to enable no code, low code analytics tooling using an open source analytics and visualization tool, namely Avail XLS, which enables tabulation, organization, collaboration, visualization, graphing and charting.
+
+Link:https://github.com/seetadev/Eth-Operations/tree/main/eth-operations-avail-module/avail-work-order-manager and https://github.com/seetadev/Eth-Operations/tree/main/eth-operations-avail-module/avail-da
+
+
+
 
 # Avail DA
 
