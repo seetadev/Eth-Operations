@@ -70,6 +70,64 @@ Please visit demo video with RootStock implementation at https://drive.google.co
 As the leading and oldest Bitcoin Layer 2 blockchain, RootStock is fully EVM-compatible, enabling seamless integration of Ethereum's scalability and programmability.
 
 
+# Layer Zero
+
+The Eth Operations DApp uses the Layer Zero protocol to enable omnichain interoperability, allowing seamless communication and transfer of assets between different blockchain networks. This ensures efficient data exchange and cross-chain functionality, enhancing the DApp's ability to interact across multiple ecosystems while providing a smooth user experience.
+
+Layer Zero Transaction hash: https://testnet.layerzeroscan.com/tx/0xb197ee7bad22ba4eec1c4094e844ec8dc7b177f120cc3afe2a555682f607b9e9
+
+Details of implementation at https://drive.google.com/drive/u/1/folders/1-EQEQvChH8HJ5T70eeQTpLUiIvwnYBkD
+
+Github: https://github.com/seetadev/Eth-Operations/tree/main/eth-operations-avail-module/layer-zero-omnichain-interop
+
+
+# Nethermind
+
+The Eth Operations DApp utilizes Nethermind (Starknet) for secure and scalable medical incident reporting. This integration leverages Starknet's zero-knowledge rollups to ensure efficient, privacy-preserving data handling, allowing for decentralized and tamper-proof reporting within the DApp.
+
+Demo Video (screencasts): https://drive.google.com/drive/u/1/folders/1EB6Fao9D1cc4uFVGXShesSy2rjkgNSvk
+
+Benefits:
+
+Enable hyperlocal medical service and delivery information. 
+
+Enable QR code based blockchain payments at key sites with support for key Ethereum based blockchain platforms. 
+
+Enhance safety through smart incentivization of incident reporting by employees and logistics providers.
+
+Additionally, the Eth Operations DApp uses verified medical incident data to mint NFTs on Voyager, which store an image and related insurance metadata. This process leverages Starknet and Argent Mobile to ensure secure and decentralized storage of medical records in the form of NFTs.
+
+
+# Avail
+
+Avail’s P2P light client network provides efficient data availability and verification, making it easier to manage work order and government operations while keeping the public billing system decentralized and scalable. 
+
+We are integrating Avail’s Light Client features with the zk Work Order wallet that seamlessly works across key Ethereum L2 Blockchains and leverages Zero Knowledge Proofs for Crypto-transactions and Identity proofs.
+
+Android version at https://github.com/seetadev/Eth-Operations/tree/main/eth-operations-avail-module/avail-work-order-manager
+
+(please download tablet.apk)
+
+Lib integration at https://github.com/seetadev/Eth-Operations/tree/main/eth-operations-avail-module/avail-work-order-manager/android/app
+
+demo, screenshots at https://drive.google.com/drive/u/1/folders/1QOI1elSYw8-RYzFLfMYVcmuseUA5Eqdy
+
+Wish to share our Avail addresses:
+
+[1] 5CMLgLMsgj6kbtXDaHZY19g2FzujSHGRn3oqmh1WEGh3K6hW 
+
+[2] 5Dqyi6FbQBURFDAivKwLPSTkxv3fa4Uj4qfcd7pTe18FmCex  
+
+Avail network optimizes the performance of the platform, ensuring that data is easily retrievable and verifiable. We are also developing custom rollapps with Avail DA and tools to enable no code, low code analytics tooling using an open source analytics and visualization tool, namely Avail XLS, which enables tabulation, organization, collaboration, visualization, graphing and charting.
+
+Link:https://github.com/seetadev/Eth-Operations/tree/main/eth-operations-avail-module/avail-work-order-manager and https://github.com/seetadev/Eth-Operations/tree/main/eth-operations-avail-module/avail-da
+
+
+
+
+
+
+
 
 
 
