@@ -39,6 +39,26 @@ Live Link for ZK Attestation Verifier for Work Order Listings:  https://zk-valid
 Sign Protocol guarantees the authenticity of every document uploaded to the system. Users can create, sign, and verify work orders, contracts, agreements, or any important document directly on the blockchain.
 
 
+# Chainlink CCIP
+
+The Eth Operations DApp utilizes Chainlink's Cross-Chain Interoperability Protocol (CCIP) to enable seamless communication and data transfer for work orders for 4 personas (contractor, staff, admin and dispatcher) between Ethereum, Optimism, Polygon and key blockchain networks like Avalanche, ensuring that data, assets, and smart contract functions can be securely shared and executed across multiple chains. 
+
+Please visit demo and screenshots at https://drive.google.com/drive/u/1/folders/1z-ltOI2hO4rzQhQsfvKQCVn8tM3szL6-
+
+CCIP transaction hash: https://ccip.chain.link/msg/0x194a610ba3dedbf079f4a2d4d3fa6839c77bde8b85fef2a30952e541e1e1d35a
+
+Source minter address :- 0xC8F3dbe6DA685050A1927d04447F02012a4DFB9C
+
+Destination minter address :- 0xC8F3dbe6DA685050A1927d04447F02012a4DFB9C
+
+NFT : - 0xfb7D6F181c910B9F74cc2e88D1F1197d86774c78
+
+Vercel Link: https://deci-report-x9q7.vercel.app/
+
+CCIP enhances the DApp’s functionality by enabling cross-chain transactions, secure asset transfers, and interoperability with various blockchains, providing a unified and scalable user experience.
+
+
+
 # RootStock
 
 Our RootStock integration is a key component of the Work Order Management DApp module, which includes a ZK Attestation Verifier with Schema Hooks using Sign Protocol’s Schema Hooks. This allows builders to extend the core attestation protocol via the RootStock Starter Kit.
@@ -48,6 +68,8 @@ We are also utilizing Lit Protocol to securely encrypt key identity documents in
 Please visit demo video with RootStock implementation at https://drive.google.com/drive/u/1/folders/1CLTBAA7UJuLCt5TzDGDY94reiWPCX4an
 
 As the leading and oldest Bitcoin Layer 2 blockchain, RootStock is fully EVM-compatible, enabling seamless integration of Ethereum's scalability and programmability.
+
+
 
 
 
