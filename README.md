@@ -74,7 +74,9 @@ As the leading and oldest Bitcoin Layer 2 blockchain, RootStock is fully EVM-com
 
 The Eth Operations DApp uses the Layer Zero protocol to enable omnichain interoperability, allowing seamless communication and transfer of assets between different blockchain networks. This ensures efficient data exchange and cross-chain functionality, enhancing the DApp's ability to interact across multiple ecosystems while providing a smooth user experience.
 
-Layer Zero Transaction hash: https://testnet.layerzeroscan.com/tx/0xb197ee7bad22ba4eec1c4094e844ec8dc7b177f120cc3afe2a555682f607b9e9
+Layer Zero Transaction Hash 1: tps://testnet.layerzeroscan.com/tx/0x85f022619a4772a3e5da0ecc26d56b7cc40aa2accd2424e10d6428b7ee4cd883
+
+Layer Zero Transaction hash 2: https://testnet.layerzeroscan.com/tx/0xb197ee7bad22ba4eec1c4094e844ec8dc7b177f120cc3afe2a555682f607b9e9
 
 Details of implementation at https://drive.google.com/drive/u/1/folders/1-EQEQvChH8HJ5T70eeQTpLUiIvwnYBkD
 
